@@ -1,6 +1,14 @@
-# Submission Proyek Akhir: Membangun ETL Pipeline Sederhana
+# Pengumpulan Proyek Akhir: Membangun Pipeline ETL Sederhana
 
-Proyek ini merupakan implementasi pipeline **ETL (Extract, Transform, Load)** untuk mengambil data produk fashion dari web [Fashion Studio Dicoding](https://fashion-studio.dicoding.dev/), membersihkannya, dan menyimpannya ke dalam tiga storage sekaligus: **CSV**, **PostgreSQL**, dan **Google Spreadsheet**.
+Pada proyek akhir ini, peserta diminta untuk membangun dan mengimplementasikan pipeline **ETL (Extract, Transform, Load)**
+sebagai solusi otomasi pengolahan data. Pipeline ini dirancang untuk mengekstraksi data produk fashion secara langsung dari situs web [Fashion Studio Dicoding](https://fashion-studio.dicoding.dev/),
+kemudian melakukan proses pembersihan dan transformasi data agar sesuai dengan kebutuhan analisis, serta memuat data akhir ke dalam tiga media penyimpanan yang berbeda, yaitu: 
+**Flat-file CSV** untuk penyimpanan lokal,
+**basis data PostgreSQL** untuk pengelolaan terstruktur,
+dan **Google Spreadsheet** untuk kebutuhan kolaborasi dan akses cloud.
+
+Proyek ini bertujuan untuk memberikan pemahaman menyeluruh tentang proses ETL serta praktik implementasinya dalam skenario nyata yang berkaitan dengan data web.
+
 
 ---
 
