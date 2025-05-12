@@ -1,4 +1,4 @@
-# Pengumpulan Proyek Akhir: Membangun Pipeline ETL Sederhana
+# Pengumpulan Proyek Akhir: Membangun Pipeline ETL Sederhana by Maxwell Massie
 
 Pada proyek akhir ini, peserta diminta untuk membangun dan mengimplementasikan pipeline **ETL (Extract, Transform, Load)**
 sebagai solusi otomasi pengolahan data. Pipeline ini dirancang untuk mengekstraksi data produk fashion secara langsung dari situs web [Fashion Studio Dicoding](https://fashion-studio.dicoding.dev/),
